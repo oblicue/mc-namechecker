@@ -5,7 +5,7 @@
   
 </div>
 <br>
-<div id="markdown">
+<div align="center">
 <code>
   uses someones mojang api to make a request depending on the username you input. if there is a 404 not found error (user does not exist) then the username is not taken
 <code>
