@@ -1,6 +1,5 @@
 <div align='center'>
-<h1>simple minecraft name checker<h1>
-<br>
+  <h1>simple minecraft name checker<h1>
   <h2>how it works</h2>
   <br>
   
