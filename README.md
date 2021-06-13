@@ -2,13 +2,14 @@
 <h1>simple minecraft name checker<h1>
 <br>
   <h3>how it works</h3>
-  
-</div>
-<br>
-
- ```
+  <br>
+   ```
   makes a request to some guys minecraft api and if it returns 404 not found then the name is not in use
- ```
+  ```
+</div>
+
+
+
   
 <br>
 <div align='center'>
