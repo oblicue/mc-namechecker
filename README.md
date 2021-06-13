@@ -6,7 +6,9 @@
 </div>
 <br>
 
- ```amogus```
+ ```
+  makes a request to some guys minecraft api and if it returns 404 not found then the name is not in use
+ ```
   
 <br>
 <div align='center'>
